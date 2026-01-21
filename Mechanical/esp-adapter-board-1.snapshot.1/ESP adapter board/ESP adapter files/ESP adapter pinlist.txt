@@ -1,0 +1,168 @@
+Pinlist
+
+Exported from ESP adapter circuit diagram.brd at 09.07.2020 17:51:09
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Part     Pad      Net
+
+C1       +        +12V
+         -        GND
+
+C2       +        +12V
+         -        GND
+
+D2       A        N$28
+         C        +12V
+
+D3       A        N$41
+         C        +12V
+
+ESP      1        3V3
+         10       ESP-IO26
+         11       ESP-IO27
+         12       ESP-IO14
+         13       ESP-IO12
+         14       GND
+         15       ESP-IO13
+         19       +5V
+         2                 *** unconnected ***
+         20       GND3
+         21       ESP-IO23
+         22       ESP-IO22
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       ESP-IO21
+         26       N$3
+         27       ESP-IO19
+         28       ESP-IO18
+         29       ESP-IO05
+         3                 *** unconnected ***
+         30       ESP-IO17
+         31       ESP-IO16
+         32       ESP-IO04
+         33       LED-B
+         34       LED-G
+         35       LED-R
+         36                *** unconnected ***
+         37                *** unconnected ***
+         38                *** unconnected ***
+         4                 *** unconnected ***
+         5                 *** unconnected ***
+         6                 *** unconnected ***
+         7        ESP-IO32
+         8        ESP-IO33
+         9        ESP-IO25
+
+IC1      IN+.1    +12V
+         IN+.2    +12V
+         IN-.1    GND
+         IN-.2    GND
+         OUT+.1   +5V
+         OUT+.2   +5V
+         OUT-.1   GND
+         OUT-.2   GND
+
+Q1       D        N$28
+         G        N$25
+         S        GND
+
+Q2       D        N$41
+         G        N$26
+         S        GND
+
+Q3       D        N$31
+         G        N$27
+         S        GND
+
+Q4       D        N$33
+         G        N$34
+         S        GND
+
+Q5       D        N$29
+         G        N$35
+         S        GND
+
+Q6       D        N$39
+         G        N$30
+         S        GND
+
+R1       1        ESP-IO04
+         2        N$25
+
+R2       1        GND
+         2        N$25
+
+R3       1        ESP-IO16
+         2        N$26
+
+R4       1        GND
+         2        N$26
+
+R5       1        LED-B
+         2        N$27
+
+R6       1        GND
+         2        N$27
+
+R7       1        LED-G
+         2        N$34
+
+R8       1        GND
+         2        N$34
+
+R9       1        LED-R
+         2        N$35
+
+R10      1        GND
+         2        N$35
+
+R11      1        GND
+         2        N$30
+
+R12      1        ESP-IO17
+         2        N$30
+
+X1       1        +12V
+         2        GND
+
+X2       1        ESP-IO32
+         2        ESP-IO33
+
+X3       1        ESP-IO25
+         2        ESP-IO26
+
+X4       1        ESP-IO27
+         2        ESP-IO14
+
+X5       1        ESP-IO12
+         2        ESP-IO13
+
+X6       1        ESP-IO22
+         2        ESP-IO23
+
+X7       1        ESP-IO19
+         2        ESP-IO21
+
+X8       1        ESP-IO05
+         2        ESP-IO18
+
+X10      1        +12V
+         2        N$29
+         3        N$33
+         4        N$31
+
+X11      1        +12V
+         2        N$29
+         3        N$33
+         4        N$31
+
+X12      1        +12V
+         2        N$41
+
+X13      1        +12V
+         2        N$28
+
+X19      1        +5V
+         2        N$39
+

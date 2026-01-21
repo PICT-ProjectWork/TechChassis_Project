@@ -1,0 +1,47 @@
+Partlist
+
+Exported from ESP adapter circuit diagram.brd at 09.07.2020 17:51:51
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                  Package                  Library                 Position (mm)         Orientation
+
+C1       1000uF                 E5-13                    rcl                     (80.01 45.72)         R90
+C2       1000uF                 E5-13                    rcl                     (100.33 45.72)        R90
+D2       1N4007                 DO41-10                  diode                   (48.26 153.67)        R0
+D3       1N4007                 DO41-10                  diode                   (48.26 135.89)        R0
+ESP      ESP32-DEVKITC-32D      MODULE_ESP32-DEVKITC-32D ESP32-DEVKITC-32D-final (95.25 87.63)         R180
+IC1      DC-DC-STEP-DOWN-MP1584 DC-DC-STEP-DOWN-MP1584   diy-modules             (123.19 49.53)        R90
+Q1       IRF540                 TO220BV                  transistor-power        (53.34 144.78)        R90
+Q2       IRF540                 TO220BV                  transistor-power        (53.34 127)           R90
+Q3       IRF540                 TO220BV                  transistor-power        (124.46 143.51)       R0
+Q4       IRF540                 TO220BV                  transistor-power        (106.68 143.51)       R0
+Q5       IRF540                 TO220BV                  transistor-power        (88.9 143.51)         R0
+Q6       IRF540                 TO220BV                  transistor-power        (53.34 109.22)        R90
+R1       1k                     0204/7                   rcl                     (67.31 138.43)        R180
+R2       47k                    0204/7                   rcl                     (67.31 142.24)        R180
+R3       1k                     0204/7                   rcl                     (67.31 120.65)        R180
+R4       47k                    0204/7                   rcl                     (67.31 124.46)        R180
+R5       1k                     0204/7                   rcl                     (118.11 129.54)       R90
+R6       47k                    0204/7                   rcl                     (121.92 129.54)       R90
+R7       1k                     0204/7                   rcl                     (100.33 129.54)       R90
+R8       47k                    0204/7                   rcl                     (104.14 129.54)       R90
+R9       1k                     0204/7                   rcl                     (82.55 129.54)        R90
+R10      47k                    0204/7                   rcl                     (86.36 129.54)        R90
+R11      47k                    0204/7                   rcl                     (67.31 106.68)        R180
+R12      1k                     0204/7                   rcl                     (67.31 102.87)        R180
+X1       GND                    W237-132                 con-wago-508            (44.45 52.07)         R90
+X2                              W237-102                 con-wago-500            (132.08 71.12)        R90
+X3                              W237-102                 con-wago-500            (132.08 81.28)        R90
+X4                              W237-102                 con-wago-500            (132.08 91.44)        R90
+X5                              W237-102                 con-wago-500            (132.08 101.6)        R90
+X6                              W237-102                 con-wago-500            (45.72 71.12)         R270
+X7                              W237-102                 con-wago-500            (45.72 81.28)         R270
+X8                              W237-102                 con-wago-500            (45.72 91.44)         R270
+X10      22-27-2041-04          6410-04                  con-molex               (132.08 115.57)       R0
+X11      22-27-2041-04          6410-04                  con-molex               (132.08 124.46)       R0
+X12      22-27-2021-02          6410-02                  con-molex               (43.18 128.27)        R90
+X13      22-27-2021-02          6410-02                  con-molex               (43.18 146.05)        R90
+X19      22-27-2021-02          6410-02                  con-molex               (43.18 110.49)        R90
