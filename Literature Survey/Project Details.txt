@@ -1,0 +1,16 @@
+
+Group number : 107
+Topic : AI/ML Based Robotics - implementation for vision, communication & advanced mechanics (RPA using ROS2)
+
+Roll No. : 42112
+Name : Vedant Dinesh Butala
+Class : BE-5
+Mobile : 7218633303
+Email : vedantbutala@gmail.com 
+
+Roll No. : 42133
+Name : Sumedh Ravindra Kasat  
+Class : BE-5
+Mobile : 8698756932
+Email : sumedhkasat32@gmail.com
+
